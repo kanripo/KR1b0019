@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 陳氏尚書詳解
-#+DATE: 2015-09-23 09:36:01
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:02:13.624902
+#+PROPERTY: ID KR1b0019
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1b0019_WYG_001-1a>¶
 欽定四庫全書¶
 　尚書詳解卷一¶
@@ -434,4 +436,3 @@
 　¶
 　¶
 　尚書詳解卷一¶
-
